@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200&family=Permanent+Marker&family=Pacifico&family=Yellowtail&family=Itim&family=Merienda:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+/* 
+font-family: 'Itim', cursive;
+font-family: 'Merienda', cursive; 
+font-family: 'Yellowtail', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Mali', cursive;
+*/
+body{
+    background-color: #000000;
+}
+h1{
+    background-color: #0013CF;
+    color: #ffffff;
+    border-radius: 5px;
+    font-family: 'Rampart One', cursive;
+    padding: 20px;
+}
+
+h2{
+    background-color: #737EEC;
+    color: #FF5733;
+    border-radius: 5px;
+    font-family: 'Rampart One', cursive;
+    padding: 20px;
+}
+
+h3{
+    background-color: #23a3a3;
+    color: #55FF33;
+    border-radius: 5px;
+    font-family: 'Rampart One', cursive;
+    padding: 20px;
+}
+
+h4{
+    background-color: #FFC300;
+    color: #33A2FF;
+    border-radius: 5px;
+    font-family: 'Rampart One', cursive;
+    padding: 20px;
+}
+
+h5{
+    background-color: #FF5733;
+    color: #7A33FF;
+    border-radius: 5px;
+    font-family: 'Rampart One', cursive;
+    padding: 20px;
+}
+
+h6{
+    background-color: #DAF7A6;
+    color: #B533FF;
+    border-radius: 5px;
+    font-family: 'Rampart One', cursive;
+    padding: 20px;
+}
+
+h1::selection, h2::selection,
+h3::selection, h4::selection,
+h5::selection, h6::selection{
+    background: #f6fdfd80;
+}
